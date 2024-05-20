@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>김의진은 똥쟁이 똥멍청ㅇ</Text>
       <StatusBar style="auto" />
     </View>
   );
